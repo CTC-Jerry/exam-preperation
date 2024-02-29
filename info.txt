@@ -2,3 +2,4 @@ I was written in first branch
 I was also written in first branch
 I was written in second branch
 I was written in master branch
+This line was added on GitHub's remote-first branch
